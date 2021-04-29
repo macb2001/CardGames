@@ -1,1 +1,4 @@
-[![pipeline status](http://gitlab.cs.uleth.ca/cpsc-2720-project-spring-2021/florence/badges/master/pipeline.svg)](http://gitlab.cs.uleth.ca/cpsc-2720-project-spring-2021/florence/-/commits/master)
+##Card Games##
+A project made for Computer Science 2720 at the University of Lethbridge
+
+Composed of 3 different card games: Go Fish!, Crazy Eights, and UNO!

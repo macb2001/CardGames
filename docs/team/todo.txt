@@ -1,0 +1,103 @@
+---info---
+! High Priority
++ done
+- not started
+| partially done
+---info---
+
+TODO:
+
+  [Diagrams]
+    | Class //Need to include classes for Pile and Hand.
+    + Sequence
+
+  [Exceptions]
+    | Header //On-going
+
+  [Card]
+    + Header
+    | Test //operators
+    | Implementation
+
+    [PlayingCard]
+      + Header
+      + Test
+      + Implementation
+
+      [GoFishCard]
+        + Header
+        + Test
+        + Implementation
+
+      [Crazy8Card]
+        + Header
+        + Test
+        + Implementation
+
+      [UnoCard]
+        + Header
+        + Test
+        + Implementation
+
+  [Deck]
+    + Header
+    + Test
+    + Implementation
+
+    [Hand]
+      + Header
+      + Test
+      + Implementation
+
+    [Pile]
+      + Header
+      + Test
+      + Implementation
+
+        [PileFactory]
+          + Header
+          + Test
+          + Implementation
+
+  ![Player]
+    + Header
+    | Test // failure tests needed
+    + Implementation
+
+    [GoFishPlayer]
+      + Header
+      - Test
+      + Implementation
+
+    [UnoPlayer]
+      - Header
+      - Test
+      - Implementation
+
+    [Crazy8Player]
+      - Header
+      - Test
+      - Implementation
+
+  ![Game]
+    + Header
+    - Test
+    + Implementation
+
+    [GoFish]
+      + Header
+      - Test
+      | Implementation
+
+    [Crazy8]
+      - Header
+      - Test
+      - Implementation
+
+    [Uno]
+      - Header
+      - Test
+      - Implementation
+
+  [Main]
+    + Implementation
